@@ -2,8 +2,8 @@
 
 <!-- https://www.youtube.com/watch?v=TsaLQAetPLU https://github.com/rafaballerini -->
 
-- 🔭 I’m currently working on Java and React
-- 🌱 I’m currently learning Spring Boot MicroServices and Cloud
+- 🔭 I’m currently working on Java , React
+- 🌱 I’m currently learning Cloud Distributed Systems with Spring Boot MicroServices and Keyclock
 
 
 <div align="center">
